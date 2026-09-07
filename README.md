@@ -1,3 +1,11 @@
+<img width="1143" height="582" alt="image" src="https://github.com/user-attachments/assets/33af4e8a-c1cf-4d03-8673-f66a5588b1d1" />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 **Academic Project: Improving Health in Communities**  
 Course/Context: DAT-510: Foundations of Data 2026   
 Role: Student Developer / Data Analyst 
@@ -19,7 +27,3 @@ For this project, I followed the complete data lifecycle, from initial cleaning 
 *Key Takeaway:*  
 
 This project helped develop my skills and deepen my understanding of the end-to-end data pipeline- from handling messy data to performing exploratory analysis to the creation of visualizations.
-
-
-
-<img width="1143" height="582" alt="image" src="https://github.com/user-attachments/assets/33af4e8a-c1cf-4d03-8673-f66a5588b1d1" />
